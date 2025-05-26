@@ -1,0 +1,30 @@
+[
+  {
+    "key": "a",
+    "commandName": "1"
+  },
+  {
+    "key": "b",
+    "commandName": "1"
+  },
+  {
+    "key": "c",
+    "commandName": "9"
+  },
+  {
+    "key": "ctrl++",
+    "commandName": "VolumeUp"
+  },
+  {
+    "key": "ctrl+-",
+    "commandName": "VolumeDown"
+  },
+  {
+    "key": "ctrl+p",
+    "commandName": "MediaPlayer"
+  },
+  {
+    "key": "d",
+    "commandName": "c"
+  }
+]
